@@ -13,6 +13,16 @@ amazon-cli application includes three javascript files that can be used to manag
 
 
 ## $ node bamazonManager.js
+**When we run the manager section of the application:
+![1-](./images/bamazon_Manager_01.jpg)
+![2-](./images/bamazon_Manager_02.jpg)
+![3-](./images/bamazon_Manager_03.jpg)
+![4-](./images/bamazon_Manager_04-AddtoInventory.jpg)
+![5-](./images/bamazon_Manager_05.jpg)
+![6-](./images/bamazon_Manager_06.jpg)
+
+
+
 ## $ node bamazonSupervisor.js
 
 
