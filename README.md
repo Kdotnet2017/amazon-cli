@@ -25,5 +25,9 @@ amazon-cli application includes three javascript files that can be used to manag
 
 ## $ node bamazonSupervisor.js
 
+** Supervisor part of the application :
+![1-](./images/bamazon_Supervisor_07.jpg)
+![2-](./images/bamazon_Supervisor_08.jpg)
+
 
 
