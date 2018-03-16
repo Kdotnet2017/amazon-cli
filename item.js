@@ -10,4 +10,5 @@ var Item = function (id, qty) {
         this.Sales += this.Quantity * this.Price;
     }
 }
+
 module.exports = Item; 

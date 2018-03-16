@@ -1,6 +1,7 @@
 require("dotenv").config();
 var mysql = require("mysql");
 var inquirer = require("inquirer");
+//NPM package that can log the table to the console.
 var cTable = require("console.table");
 var item = require("./item.js");
 var purchasedItem;

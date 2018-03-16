@@ -1,6 +1,7 @@
 # amazon-cli
 
 amazon-cli application includes three javascript files that can be used to manage inventory.
+*note: NPM package that can log the table to the console is [console.table](https://www.npmjs.com/package/console.table)
 ## $ node bamazonCustomer.js
 
 
